@@ -34,4 +34,4 @@
 |            |                                                              |      |
 |            |                                                              |      |
 
- <img src="./image/gz.PNG" alt="聊天群" style="zoom: 25%;" />
+ <img src="./image/gz2.PNG" alt="聊天群" style="zoom: 25%;" />
