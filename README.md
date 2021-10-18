@@ -3,9 +3,9 @@
 
 TG:https://t.me/code_gz
 
-[二维码](./img/gzold.PNG)
+[二维码](./image/gzold.PNG)
 
-[备用二维码](./img/gznew.PNG)
+[备用二维码](./image/gznew.PNG)
 
 
 | 时间       | 内容                                                         | 其他 |
