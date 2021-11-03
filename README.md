@@ -5,7 +5,7 @@ TG:https://t.me/code_gz
 
 [二维码](./image/gzold.PNG)
 
-[备用二维码](./image/gznew.PNG)
+[备用二维码(四代)](./image/gznew.PNG)
 
 
 | 时间       | 内容                                                         | 其他 |
@@ -74,5 +74,3 @@ TG:https://t.me/code_gz
 | 2021-07-15 | 九价预约人人愁，两性话题引广泛讨论                           |      |
 | 2021-07-14 | 移民话题引发多人冲突，出海与否请理性讨论                     |      |
 | 2021-07-13 | 地域黑还是自嘲，多位网民对此作出指导意见                     |      |
-
- <img src="./gzold.PNG" alt="聊天群" style="zoom: 25%;" />
