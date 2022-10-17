@@ -1,2 +1,2 @@
 学习强国
-[img](./image/code.jpg)
+![img](./image/code.jpg)
